@@ -51,6 +51,6 @@ Here are some ideas to get you started:
 
 ### 🌐 Me puedes encontrar en:
 
-<a href = "https://www.linkedin.com/in/pilar-rivera-romero/" target=”_blank” > <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> </a>
+<a href = "https://www.linkedin.com/in/pilar-rivera-romero/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/> </a>
 
 
