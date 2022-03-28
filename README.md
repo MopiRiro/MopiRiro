@@ -1,21 +1,17 @@
 ## Hola!👋 Soy Pilar
 
 ```
-Soy una estudiante de la carrera de Ingenieria de Sistemas 
-la cual se apasiono por la programación, tengo experiencia 
-desarrollando proyectos como Front end. 
+Soy una estudiante de la carrera de Ingenieria de Sistemas la cual se apasiono por la programación, tengo experiencia desarrollando proyectos como Front end. 
 
-Me apasionan los desafíos que impliquen aprender, investigar 
-y buscar mejores soluciones a través del uso de nuevas tecnologías.
+Me apasionan los desafíos que impliquen aprender, investigar y buscar mejores soluciones a través del uso de nuevas tecnologías.
 
 ```
 
-<br>
+
 
 - 🌱 Actualmente estoy aprendiendo Angular
 - 👯 Busco colaborar en proyectos relacionados con el desarrollo de software
 
-<br>
 <!--
 **MopiRiro/MopiRiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -47,7 +43,6 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://cdn.freebiesupply.com/logos/thumbs/2x/android-logo.png"></code>
 <code><img height="30" src="https://www.pngplay.com/wp-content/uploads/9/Java-Free-PNG.png"></code>
 
-<br>
 
 ### 🌐 Me puedes encontrar en:
 
