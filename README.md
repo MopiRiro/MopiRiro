@@ -15,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🔨 Languages and Tools:
+
+<code><img height="30" src="https://mirayhazlo.com/wp-content/uploads/2018/09/Html5_dise%C3%B1o_web-1.png"></code>
+<code><img height="30" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png"></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/javascript.png"></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/nodejs.png"></code>
