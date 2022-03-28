@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<hr>
 
 ### 🔨 Languajes y herramientas:
 
@@ -42,6 +43,8 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://img.icons8.com/color/48/000000/typescript.png"></code>
 <code><img height="30" src="https://cdn.freebiesupply.com/logos/thumbs/2x/android-logo.png"></code>
 <code><img height="30" src="https://www.pngplay.com/wp-content/uploads/9/Java-Free-PNG.png"></code>
+
+<hr>
 
 
 ### 🌐 Me puedes encontrar en:
