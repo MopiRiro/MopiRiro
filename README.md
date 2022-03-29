@@ -45,6 +45,9 @@ Here are some ideas to get you started:
 <code><img height="45" src="https://img.icons8.com/color/48/000000/typescript.png"></code>
 <code><img height="45" src="https://cdn.freebiesupply.com/logos/thumbs/2x/android-logo.png"></code>
 <code><img height="45" src="https://www.pngplay.com/wp-content/uploads/9/Java-Free-PNG.png"></code>
+<code><img height="45" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png"></code>
+
+
 
 <hr>
 
