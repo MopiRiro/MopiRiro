@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <code><img height="45" src="https://www.pngplay.com/wp-content/uploads/9/Java-Free-PNG.png"></code>
 <code><img height="45" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png"></code>
 <code><img height="40" src="https://spectrasoft.ru/upload/iblock/e51/e512fda04706e8559113dcc4653fa4be.png"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/1280px-Netlify_logo.svg.png"></code>
+<code><img height="40" src="https://www.netlify.com/v3/img/components/full-logo-dark.png"></code>
 <hr>
 
 
