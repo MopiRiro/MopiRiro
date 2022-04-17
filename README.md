@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 <code><img height="45" src="https://img.icons8.com/color/48/000000/git.png"></code>
 <code><img height="45" src="https://img.icons8.com/office/45/000000/figma.png"></code>
 <code><img height="45" src="https://img.icons8.com/color/48/000000/firebase.png"></code>
+<code><img height="45" src="https://cdn.iconscout.com/icon/free/png-256/sass-226054.png"></code>
 <code><img height="45" src="https://i0.wp.com/www.jacobsoft.com.mx/wp-content/uploads/2019/04/Bootstrap-Logo.png?ssl=1"></code>
 <code><img height="45" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"></code>
 <code><img height="45" src="https://img.icons8.com/color/48/000000/angularjs.png"></code>
