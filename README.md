@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <code><img height="45" src="https://img.icons8.com/color/48/000000/javascript.png"></code>
 <code><img height="45" src="https://img.icons8.com/color/48/000000/nodejs.png"></code>
 <code><img height="45" src="https://img.icons8.com/color/48/000000/git.png"></code>
-<code><img height="45" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg"></code>
 <code><img height="45" src="https://img.icons8.com/office/45/000000/figma.png"></code>
 <code><img height="45" src="https://img.icons8.com/color/48/000000/firebase.png"></code>
 <code><img height="45" src="https://cdn.iconscout.com/icon/free/png-256/sass-226054.png"></code>
