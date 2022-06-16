@@ -1,12 +1,8 @@
 ## Hola!👋 Soy Pilar
 
 ```
-Soy una estudiante de la carrera de Ingenieria de Sistemas la cual se apasiono por la programación, 
-tengo experiencia desarrollando proyectos como Front end. 
-
 Me apasionan los desafíos que impliquen aprender, investigar y buscar mejores soluciones a través 
 del uso de nuevas tecnologías.
-
 ```
 
 
