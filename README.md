@@ -7,8 +7,7 @@ del uso de nuevas tecnologías.
 
 
 
-- 🌱 Actualmente estoy aprendiendo Angular
-- 👯 Busco colaborar en proyectos relacionados con el desarrollo de software
+- 🌱 Busco colaborar en proyectos relacionados con el desarrollo de software
 
 <!--
 **MopiRiro/MopiRiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
